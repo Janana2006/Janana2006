@@ -1,126 +1,71 @@
-# 👋 Hi, I'm Janan Jayasuriya
-
-### 💻 Software Engineering Student | Backend & Full-Stack Developer
-
-I'm a **Software Engineering student at NIBM** with an interest in building practical and scalable web applications. I'm currently focusing on **Java, Spring Boot, REST APIs, MySQL, and React**, while continuously improving my software development and problem-solving skills.
-
-I'm also exploring **Spring Security, microservices, Docker, and modern web technologies** as I work on real-world projects.
-
-📍 **Kurunegala, Sri Lanka**
-🎓 **NIBM — Higher National Diploma in Software Engineering**
-💼 **Open to Software Engineering Internships & Freelance Projects**
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Janana2006)
-
----
-
-## 🚀 What I'm Currently Learning
-
-* ☕ **Java & Object-Oriented Programming**
-* 🌱 **Spring Boot & REST API Development**
-* 🔐 **Spring Security & JWT Authentication**
-* 🗄️ **MySQL & Database Design**
-* ⚛️ **React & JavaScript**
-* 🐳 **Docker & Application Deployment**
-* 🔗 **Microservices Architecture**
-* 🧩 **Git & GitHub**
-* 📡 **API Development & Testing with Postman**
-
----
-
-## 💻 Tech Stack
-
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### Backend
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge\&logo=intellijidea\&logoColor=white)
-
----
-
-## 📌 Featured Project
+## 📌 My Projects
 
 ### 🏍️ Vehicle Parts Management System
 
-A full-stack web-based management system developed for a vehicle parts business.
+A full-stack web application developed for managing a vehicle parts business.
 
-The system manages:
+**Features:**
+- 🔐 Authentication & Authorization
+- 📦 Inventory Management
+- 🛒 Sales Management
+- 🚚 Supplier Management
+- 📊 Reports
+- 👥 Role-based Dashboards
+- 💰 Purchase & Selling Price Management
 
-* 🔐 User authentication and authorization
-* 📦 Inventory management
-* 🛒 Sales management
-* 🚚 Supplier management
-* 📊 Reporting
-* 👥 Role-based dashboards
-* 💰 Product purchasing and selling prices
-
-**Built with:**
-
+**Technologies:**  
 `React` `Java` `Spring Boot` `MySQL` `REST API`
+
+---
+
+### 🎬 CineReview
+
+A movie review web application where users can explore movies and share their reviews.
+
+**Features:**
+- 🔐 User Registration & Login
+- 🎬 Movie Management
+- ⭐ Movie Reviews & Ratings
+- 👤 User Management
+- 🗄️ MySQL Database
+- 🔄 CRUD Operations
+
+**Technologies:**  
+`PHP` `MySQL` `HTML` `CSS` `JavaScript`
+
+---
+
+### 🤖 ESP32-CAM Red Object Tracking
+
+An embedded computer-vision project using an ESP32-CAM to detect and track red-colored objects.
+
+**Features:**
+- 📷 ESP32-CAM camera streaming
+- 🔴 Red object detection
+- 🎯 Object position tracking
+- 🔦 Flash control
+- ⚙️ Adjustable detection parameters
+
+**Technologies:**  
+`ESP32-CAM` `Arduino` `C/C++` `Computer Vision`
+
+---
+
+### 📚 Student Management API
+
+A REST API project for managing student information while practicing backend development with Spring Boot.
+
+**Technologies:**  
+`Java` `Spring Boot` `REST API` `MySQL`
 
 ---
 
 ## 🎯 My Current Goal
 
-I'm currently looking for a **6-month Software Engineering Internship** where I can gain practical industry experience and improve my skills in:
+I'm currently looking for a **6-month Software Engineering Internship** where I can gain practical industry experience.
 
-**Java → Spring Boot → REST APIs → MySQL → Spring Security → Microservices**
+My main focus is:
 
-I'm especially interested in **Backend Development and Full-Stack Development**.
+**Java → Spring Boot → REST APIs → MySQL / MongoDB → Spring Security → Microservices**
 
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Janana2006\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Janana2006\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Learning → Building → Improving
-
-**"Every project is an opportunity to learn something new."**
-
-</div>
-
+I'm especially interested in **Backend Development** and **Full-Stack Development**.
