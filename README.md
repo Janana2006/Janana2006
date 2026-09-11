@@ -93,6 +93,25 @@ The system manages:
 
 `React` `Java` `Spring Boot` `MySQL` `REST API`
 
+### 💊 Pharmacy Management System (MediSync)
+
+A backend-driven pharmacy management system built with Spring Boot to handle end-to-end pharmacy operations.
+
+The system manages:
+
+* 🔐 User authentication & authorization (Spring Security)
+* 💊 Medicine & inventory management
+* 🧾 Billing and bill returns
+* 📥 GRN (Goods Received Note) & purchase orders from suppliers
+* 🚚 Supplier management
+* 📧 Email notifications (Spring Mail)
+* 🧾 PDF invoice generation (iText)
+* 🔔 System notifications
+
+**Built with:**
+
+`Java` `Spring Boot` `Spring Security` `MySQL` `REST API` `iText PDF`
+
 
 ## 📈 GitHub Activity
 
