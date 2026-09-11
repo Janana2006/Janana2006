@@ -39,7 +39,6 @@ I'm also exploring **Spring Security, microservices, Docker, and modern web tech
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
@@ -92,17 +91,6 @@ The system manages:
 
 `React` `Java` `Spring Boot` `MySQL` `REST API`
 
----
-
-## 🎯 My Current Goal
-
-I'm currently looking for a **6-month Software Engineering Internship** where I can gain practical industry experience and improve my skills in:
-
-**Java → Spring Boot → REST APIs → MySQL → Spring Security → Microservices**
-
-I'm especially interested in **Backend Development and Full-Stack Development**.
-
----
 
 ## 📈 GitHub Activity
 
@@ -116,10 +104,3 @@ I'm especially interested in **Backend Development and Full-Stack Development**.
 
 ---
 
-<div align="center">
-
-### 🚀 Learning → Building → Improving
-
-**"Every project is an opportunity to learn something new."**
-
-</div>
