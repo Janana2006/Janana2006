@@ -112,3 +112,14 @@ The system manages:
 
 `Java` `Spring Boot` `Spring Security` `MySQL` `REST API` `iText PDF`
 
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Janana2006&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janana2006&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+
+</div>
+
+---
