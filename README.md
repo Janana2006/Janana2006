@@ -7,7 +7,7 @@ I'm a **Software Engineering student at NIBM** with an interest in building prac
 
 I'm currently focusing on **Java, Spring Boot, REST APIs, MySQL, and React**, while continuously improving my software development and problem-solving skills.
 
-📍 **Kurunegala, Sri Lanka**  🎓 **NIBM — Higher National Diploma in Software Engineering**  💼 **Open to Software Engineering Internships & Freelance Projects**
+📍 **Kurunegala, Sri Lanka**  🎓 **NIBM — Higher National Diploma in Software Engineering**  💼 **Open to  Internships & Freelance Projects**
 
 ---
 
