@@ -1,13 +1,14 @@
+
 # 👋 Hi, I'm Janan Jayasuriya
 
 ### 💻 Software Engineering Student | Backend & Full-Stack Developer
 
-I'm a **Software Engineering student at NIBM** with an interest in building practical and scalable web applications. I'm currently focusing on **Java, Spring Boot, REST APIs, MySQL, and React**, while continuously improving my software development and problem-solving skills.
+I'm a **Software Engineering student at NIBM** with an interest in building practical and scalable web applications.
 
-I'm also exploring **Spring Security, microservices, Docker, and modern web technologies** as I work on real-world projects.
+I'm currently focusing on **Java, Spring Boot, REST APIs, MySQL, and React**, while continuously improving my software development and problem-solving skills.
 
-📍 **Kurunegala, Sri Lanka**
-🎓 **NIBM — Higher National Diploma in Software Engineering**
+📍 **Kurunegala, Sri Lanka**  
+🎓 **NIBM — Higher National Diploma in Software Engineering**  
 💼 **Open to Software Engineering Internships & Freelance Projects**
 
 ---
@@ -15,22 +16,24 @@ I'm also exploring **Spring Security, microservices, Docker, and modern web tech
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Janana2006)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
 
 ---
 
 ## 🚀 What I'm Currently Learning
 
-* ☕ **Java & Object-Oriented Programming**
-* 🌱 **Spring Boot & REST API Development**
-* 🔐 **Spring Security & JWT Authentication**
-* 🗄️ **MySQL & Database Design**
-* ⚛️ **React & JavaScript**
-* 🐳 **Docker & Application Deployment**
-* 🔗 **Microservices Architecture**
-* 🧩 **Git & GitHub**
-* 📡 **API Development & Testing with Postman**
+- ☕ Java & Object-Oriented Programming
+- 🌱 Spring Boot & REST API Development
+- 🔐 Spring Security & JWT Authentication
+- 🗄️ MySQL & Database Design
+- ⚛️ React & JavaScript
+- 🐳 Docker & Application Deployment
+- 🔗 Microservices Architecture
+- 🧩 Git & GitHub
+- 📡 API Development & Testing with Postman
 
 ---
 
@@ -73,53 +76,51 @@ I'm also exploring **Spring Security, microservices, Docker, and modern web tech
 
 ---
 
-## 📌 Featured Project
+## 📌 Featured Projects
 
 ### 🏍️ Vehicle Parts Management System
 
 A full-stack web-based management system developed for a vehicle parts business.
 
-The system manages:
+- 🔐 User authentication and authorization
+- 📦 Inventory management
+- 🛒 Sales management
+- 🚚 Supplier management
+- 📊 Reporting
+- 👥 Role-based dashboards
+- 💰 Product purchasing and selling prices
 
-* 🔐 User authentication and authorization
-* 📦 Inventory management
-* 🛒 Sales management
-* 🚚 Supplier management
-* 📊 Reporting
-* 👥 Role-based dashboards
-* 💰 Product purchasing and selling prices
-
-**Built with:**
-
-`React` `Java` `Spring Boot` `MySQL` `REST API`
+**Built with:** `React` `Java` `Spring Boot` `MySQL` `REST API`
 
 ### 💊 Pharmacy Management System (MediSync)
 
-A backend-driven pharmacy management system built with Spring Boot to handle end-to-end pharmacy operations.
+A backend-driven pharmacy management system built with Spring Boot.
 
-The system manages:
+- 🔐 Spring Security authentication and authorization
+- 💊 Medicine and inventory management
+- 🧾 Billing and bill returns
+- 📥 GRN and purchase orders
+- 🚚 Supplier management
+- 📧 Email notifications
+- 📄 PDF invoice generation
+- 🔔 System notifications
 
-* 🔐 User authentication & authorization (Spring Security)
-* 💊 Medicine & inventory management
-* 🧾 Billing and bill returns
-* 📥 GRN (Goods Received Note) & purchase orders from suppliers
-* 🚚 Supplier management
-* 📧 Email notifications (Spring Mail)
-* 🧾 PDF invoice generation (iText)
-* 🔔 System notifications
+**Built with:** `Java` `Spring Boot` `Spring Security` `MySQL` `REST API` `iText PDF`
 
-**Built with:**
-
-`Java` `Spring Boot` `Spring Security` `MySQL` `REST API` `iText PDF`
-
+---
 
 ## 📈 GitHub Activity
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Janana2006&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janana2006&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 
 </div>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Janana2006&color=blueviolet&style=flat-square&label=Profile+Views" />
+</p>
