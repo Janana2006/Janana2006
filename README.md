@@ -1,11 +1,12 @@
-
 # 👋 Hi, I'm Janan Jayasuriya
 
 ### 💻 Software Engineering Student | Backend & Full-Stack Developer
 
 **2nd Year Software Engineering student** at **NIBM (HND)**, building full-stack applications with **Java, Spring Boot, REST APIs, MySQL, React, and Next.js** — exploring **AI integration** and **microservices architecture** along the way.
 
-📍 **Kurunegala, Sri Lanka**  🎓 **NIBM — Higher National Diploma in Software Engineering**  💼 **Open to  Internships & Freelance Projects**
+📍 **Kurunegala, Sri Lanka**  
+🎓 **NIBM — Higher National Diploma in Software Engineering**  
+💼 **Open to Internships & Freelance Projects**
 
 ---
 
@@ -36,6 +37,7 @@
 ### Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
