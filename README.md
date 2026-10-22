@@ -2,7 +2,7 @@
 
 ### 💻 Software Engineering Student | Backend & Full-Stack Developer
 
-**2nd Year Software Engineering student** at **NIBM (HND)**, building full-stack applications with **Java, Spring Boot, REST APIs, MySQL, React, and Next.js** — exploring **AI integration** and **microservices architecture** along the way.
+**2nd Year Software Engineering student** at **NIBM (HND)**, building full-stack applications with **Java, Spring Boot, REST APIs, MySQL, React,Kotlin and Next.js** — exploring **AI integration** and **microservices architecture** along the way.
 
 📍 **Kurunegala, Sri Lanka**  
 🎓 **NIBM — Higher National Diploma in Software Engineering**  
