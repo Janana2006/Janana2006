@@ -71,20 +71,3 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ---
-
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Janana2006&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janana2006&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-
-</div>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Janana2006&color=blueviolet&style=flat-square&label=Profile+Views" />
-</p>
