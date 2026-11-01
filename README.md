@@ -72,38 +72,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-### 🏍️ Vehicle Parts Management System
-
-A full-stack web-based management system developed for a vehicle parts business.
-
-- 🔐 User authentication and authorization
-- 📦 Inventory management
-- 🛒 Sales management
-- 🚚 Supplier management
-- 📊 Reporting
-- 👥 Role-based dashboards
-- 💰 Product purchasing and selling prices
-
-**Built with:** `React` `Java` `Spring Boot` `MySQL` `REST API`
-
-### 💊 Pharmacy Management System (MediSync)
-
-A backend-driven pharmacy management system built with Spring Boot.
-
-- 🔐 Spring Security authentication and authorization
-- 💊 Medicine and inventory management
-- 🧾 Billing and bill returns
-- 📥 GRN and purchase orders
-- 🚚 Supplier management
-- 📧 Email notifications
-- 📄 PDF invoice generation
-- 🔔 System notifications
-
-**Built with:** `Java` `Spring Boot` `Spring Security` `MySQL` `REST API` `iText PDF`
-
----
 
 ## 📈 GitHub Activity
 
