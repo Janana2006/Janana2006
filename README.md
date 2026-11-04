@@ -18,20 +18,6 @@
 
 ---
 
-## 🚀 What I'm Currently Learning
-
-- ☕ Java & Object-Oriented Programming
-- 🌱 Spring Boot & REST API Development
-- 🔐 Spring Security & JWT Authentication
-- 🗄️ MySQL & Database Design
-- ⚛️ React & JavaScript
-- 🐳 Docker & Application Deployment
-- 🔗 Microservices Architecture
-- 🧩 Git & GitHub
-- 📡 API Development & Testing with Postman
-
----
-
 ## 💻 Tech Stack
 
 ### Languages
